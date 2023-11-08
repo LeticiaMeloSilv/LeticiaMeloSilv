@@ -26,6 +26,8 @@
   <a href="https://www.linkedin.com/in/let%C3%ADcia-melo-silva-238531291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
   <a href="https://codepen.io/LeticiaMeloSilv" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
   <a href="https://www.figma.com/files/user/1200794996775732133?fuid=1200794996775732133" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+   <a href="https://www.postman.com/science-participant-73629797" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"></a>
+
 </div>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
     https://devicon.dev/-->
