@@ -31,7 +31,8 @@ Também estou aperfeiçoando meu **inglês** na **Wizard** (nível intermediári
 <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="Tailwind" height="30" width="40" src="./assets/tailwindcss.png"/>
+
 
 **Back-end:**  
 <img alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -46,3 +47,6 @@ Conecte-se comigo e acompanhe meus projetos:
 <a href="https://www.linkedin.com/in/let%C3%ADcia-melo-silva-238531291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.figma.com/@leticiamelosilv" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 
+<div align="center">
+  <img src="./assets/wallpaper-chase.jpg" alt="Poster do Chase Atlantic" width:"100%"/>
+</div>
