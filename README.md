@@ -48,5 +48,5 @@ Conecte-se comigo e acompanhe meus projetos:
 <a href="https://www.figma.com/@leticiamelosilv" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 
 <div align="center">
-  <img src="./assets/wallpaper-chase.jpg" alt="Poster do Chase Atlantic" width:"100%"/>
+  <img src="./assets/wallpaper-chase-esticado.png" alt="Poster do Chase Atlantic" width:"100%"/>
 </div>
