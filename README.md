@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 Sou estudante de **Ciência da Computação** na **Universidade Nove de Julho** (previsão de conclusão em 2028), e sou formada pelo **SENAI Jandira** em 2024 no curso técnico de **Desenvolvimento de Sistemas**.  
-Também estou aperfeiçoando meu **inglês** na **Wizard** (nível intermediário, W8) e **atuo** na área de **tecnologia** desde **05/03/2025**, explorando constantemente novas linguagens e frameworks para me tornar uma desenvolvedora **full stack**.
+Também estou aperfeiçoando meu **inglês** na **Wizard** (nível intermediário, W8) e **atuo** como desenvolvedora **full stack** desde **05/03/2025**, explorando constantemente novas linguagens e frameworks para me tornar uma desenvolvedora **full stack**.
 
 🚀 Não se acanhe, chegue mais e confira meus repositórios!!
 
